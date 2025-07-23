@@ -1,0 +1,16 @@
+body{
+    background-color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+h1{
+    color: aliceblue;
+    background-color: royalblue;
+}
+h2{
+    color: red;
+}
+p{
+    text-align: justify;
+}

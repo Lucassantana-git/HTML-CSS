@@ -1,0 +1,82 @@
+@charset "utf-8";
+
+header {
+    margin: 0px;
+    padding: 1px;
+    text-align: center;
+    background-color: rgb(5, 121, 5);
+    box-shadow: inset 5px 3px 15px black;
+    color: rgb(255, 255, 255);
+    
+}
+
+nav{
+    padding: 5px;
+    text-align: justify;
+}
+
+nav > button#home{
+    font-size: large;
+    font-family:'Times New Roman', Times, serif;
+    border: 0cap;
+    background-color: rgba(5, 121, 5, 0);
+    color: antiquewhite;
+}
+
+div > iframe{
+    text-align: center;
+}
+
+body{
+    background-color: aqua;
+}
+
+main{
+    background-color: rgb(255, 255, 255);
+    padding: 30px;
+    margin: 0px 160px 15px 160px;
+    
+}
+
+main > h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: green;
+}
+
+h2{
+    background-color: rgba(46, 247, 46, 0.274);
+}
+main > h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: green;
+}
+main > #irina{
+    text-align: center;
+}
+
+footer{
+    margin: 0px;
+    padding: 1px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+}
+
+div {
+    padding: 8px;
+    background-color: #06680659;
+    color: aliceblue;
+    border-radius: 5px;
+}
+
+h3{
+    color: aliceblue;
+    padding: 8px 20px 8px 20px;
+    margin: 2px;
+    background-color: rgb(2, 124, 2);
+}
+
+div#video{
+    background-color: rgb(0, 136, 18);
+}
